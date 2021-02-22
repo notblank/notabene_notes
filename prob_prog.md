@@ -7,3 +7,5 @@ https://probprog.github.io/anglican/
 ## Tutorial:
 
 https://www.youtube.com/watch?v=6Lqt07enBGs&feature=emb_title
+
+https://www.robots.ox.ac.uk/~fwood/anglican/teaching/mlss2014/
