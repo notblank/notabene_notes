@@ -13,3 +13,7 @@ https://www.robots.ox.ac.uk/~fwood/anglican/teaching/mlss2014/
 up-to-date:
 
 https://github.com/hongseok-yang/probprog18
+
+## clojure:
+
+https://www.youtube.com/watch?v=zFPiPBIkAcQ
