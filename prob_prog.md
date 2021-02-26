@@ -17,3 +17,6 @@ https://github.com/hongseok-yang/probprog18
 ## clojure:
 
 https://www.youtube.com/watch?v=zFPiPBIkAcQ
+
+- clojure blog: (chapter about ns)
+https://www.braveclojure.com/organization/
