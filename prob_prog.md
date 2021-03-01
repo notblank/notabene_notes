@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=zFPiPBIkAcQ
 - clojure blog: (chapter about ns)
 https://www.braveclojure.com/organization/
 
+- cheetsheet:
+https://clojure.org/api/cheatsheet
 
 ## todo:
 - finish lecture 4 example.
