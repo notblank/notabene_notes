@@ -12,7 +12,7 @@ https://www.robots.ox.ac.uk/~fwood/anglican/teaching/mlss2014/
 
 up-to-date:
 
-https://github.com/hongseok-yang/probprog18
+- 2020 https://github.com/hongseok-yang/probprog20 
 
 ## clojure:
 
