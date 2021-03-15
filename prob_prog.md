@@ -26,5 +26,7 @@ https://www.braveclojure.com/organization/
 https://clojure.org/api/cheatsheet
 
 ## todo:
-- finish lecture 4 example.
 - exact sampling for hexagon lattice?
+- bayesian models: missing data with plots
+
+
