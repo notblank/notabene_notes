@@ -15,6 +15,8 @@ up-to-date:
 - 2020 
 https://github.com/hongseok-yang/probprog20 
 
+- finish lecture 5 and homework3
+
 ## clojure:
 
 https://www.youtube.com/watch?v=zFPiPBIkAcQ
