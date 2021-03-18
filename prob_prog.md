@@ -31,4 +31,8 @@ https://clojure.org/api/cheatsheet
 - exact sampling for hexagon lattice?
 - bayesian models: missing data with plots
 
+## RStan:
 
+- complete posterior predictive samples:
+
+https://mc-stan.org/docs/2_23/stan-users-guide/posterior-prediction-for-regressions.html
