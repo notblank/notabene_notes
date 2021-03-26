@@ -40,3 +40,6 @@ https://mc-stan.org/docs/2_23/stan-users-guide/posterior-prediction-for-regressi
 - install cuda for cholesky:
 
 http://mc-stan.org/math/opencl_support.html
+
+- install CUDA arch
+https://medium.com/@jaggu.iitm/setting-up-deep-learning-with-cuda-tensorflow-and-keras-on-arch-linux-with-dual-gpu-nvidia-gpu-82963d2ecb75
