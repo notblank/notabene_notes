@@ -41,5 +41,10 @@ https://mc-stan.org/docs/2_23/stan-users-guide/posterior-prediction-for-regressi
 
 http://mc-stan.org/math/opencl_support.html
 
+http://mc-stan.org/math/index.html
+
 - install CUDA arch
 https://medium.com/@jaggu.iitm/setting-up-deep-learning-with-cuda-tensorflow-and-keras-on-arch-linux-with-dual-gpu-nvidia-gpu-82963d2ecb75
+
+- interfacing with c++ code:
+https://cran.r-project.org/web/packages/rstan/vignettes/external.html
