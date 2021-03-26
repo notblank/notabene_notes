@@ -36,3 +36,7 @@ https://clojure.org/api/cheatsheet
 - complete posterior predictive samples:
 
 https://mc-stan.org/docs/2_23/stan-users-guide/posterior-prediction-for-regressions.html
+
+- install cuda for cholesky:
+
+http://mc-stan.org/math/opencl_support.html
