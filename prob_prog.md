@@ -15,7 +15,7 @@ up-to-date:
 - 2020 
 https://github.com/hongseok-yang/probprog20 
 
-- finish lecture 6 and homework3
+- finish lecture 9-10 and homework4
 
 ## clojure:
 
