@@ -15,7 +15,12 @@ up-to-date:
 - 2020 
 https://github.com/hongseok-yang/probprog20 
 
-- finish lecture 9-10 and homework4
+- finish lecture 9 and question 2 of homework4
+
+Amortized inference:
+(Max Welling)
+
+https://www.youtube.com/watch?v=mCBnid-1slI
 
 ## clojure:
 
