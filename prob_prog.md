@@ -53,3 +53,5 @@ https://medium.com/@jaggu.iitm/setting-up-deep-learning-with-cuda-tensorflow-and
 
 - interfacing with c++ code:
 https://cran.r-project.org/web/packages/rstan/vignettes/external.html
+
+
